@@ -5,3 +5,7 @@ python-multipart
 torch
 numpy
 opencv-python-headless
+pillow
+pydantic
+requests
+
